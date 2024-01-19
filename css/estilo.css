@@ -2,13 +2,8 @@
     border: 5px solid #e1bee7;
     background-color: #fff1ff;
     display: grid;
-    grid-template-columns: 150px 150px 150px;
-    grid-template-rows: 75px 75px 75px;
-    grid-template-areas: 
-    "header1  header2 header2"
-    "center1 center1 center2"
-    "final1 final2 final3";
-    place-content:center;
+    grid-template-columns: 30px 200px 60px;
+    grid-template-rows: 100px 100px 100px;
     
 
 }
